@@ -30,8 +30,8 @@ fun main() {
     val cars= mutableListOf<String>("car1","car2","car3","car4")
 
     //println(cars)
-    //cars.remove("car3")
-    //cars -= "car3"
+    //cars.uyjgjgremove("car3")
+    //cars -= "car3"hfg
    // println(cars)
 
 
